@@ -1,3 +1,25 @@
+export default function Header({ periods }) {
+  return (
+    <header>
+      <div className="periods">
+        {periods?.map((periodName) => (
+          <a
+            href={"#" + periodNameToHref(periodName)}
+            className="periods__name"
+            key={periodName}
+          >
+            {periodName}
+          </a>
+        ))}
+      </div>
+      <a className="logo" href="#">
+        <span className="logo__name">Timeline Brasil</span>
+        <Logo className="logo__icon" />
+      </a>
+    </header>
+  );
+}
+
 function Logo({ className }) {
   return (
     <svg
@@ -24,28 +46,6 @@ function Logo({ className }) {
   );
 }
 
-function periodNameToHref(periodName) {
-  return "#" + periodName.toLowerCase().replace(/\s+/g, "");
-}
-
-export default function Header({ periods }) {
-  return (
-    <header>
-      <div className="periods">
-        {periods?.map((periodName) => (
-          <a
-            href={periodNameToHref(periodName)}
-            className="periods__name"
-            key={periodName}
-          >
-            {periodName}
-          </a>
-        ))}
-      </div>
-      <a className="logo" href="#">
-        <span className="logo__name">Timeline Brasil</span>
-        <Logo className="logo__icon" />
-      </a>
-    </header>
-  );
+export function periodNameToHref(periodName) {
+  return periodName.toLowerCase().replace(/\s+/g, "");
 }
