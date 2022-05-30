@@ -46,21 +46,23 @@ body {
   justify-content: space-evenly;
   width: 100%;
   max-width: 62rem;
-  max-height: 14rem;
+  max-height: 16rem;
   margin-bottom: 4rem;
   padding: 0 1rem;
-  gap: 1rem;
+  gap: 2rem;
+  align-items: center;
 }
 
 .period_point__img {
-  max-height: 14rem;
-  max-width: 20rem;
+  max-height: 16rem;
+  max-width: 22rem;
   filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
 }
 
 .period_text {
   font-size: 0.875rem;
   line-height: 1rem;
+  max-height: 14rem;
 }
 
 .period_text__content {
@@ -68,13 +70,25 @@ body {
   white-space: pre-wrap;
   text-align: justify;
   max-height: 12rem;
-  max-width: 34rem;
+}
+
+.period_text__name {
+  line-height: 2rem;
+  font-family: var(--bold-font);
+  font-weight: 700;
+  font-size: 1.5rem;
+  text-align: center;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  max-width: 80vw;
 }
 
 .period_text__link {
   display: inline-block;
-  margin-top: 1rem;
+  padding: 0.5rem 0;
   margin-left: 2rem;
+  color: #5895dc;
 }
 
 .period_info__name {
@@ -103,8 +117,8 @@ body {
   position: absolute;
   top: 0;
   z-index: -1;
-  filter: blur(0.35rem);
-  opacity: 0.12;
+  filter: blur(0.2vw);
+  opacity: 0.1;
   background-size: 100vw 100vh;
   width: 100vw;
   height: 100%;
@@ -165,5 +179,36 @@ body {
 @media only screen and (max-width: 56.25rem) {
   .logo__name {
     display: none;
+  }
+}
+
+@media only screen and (max-width: 40.625rem) {
+  .period_point {
+    flex-direction: column;
+    align-items: center;
+    max-height: fit-content;
+  }
+
+  .period_point__img {
+    max-height: 18rem;
+    max-width: auto;
+  }
+}
+
+@media only screen and (max-width: 37.5rem) {
+  .periods__name {
+    width: 4rem;
+    text-overflow: ellipsis;
+    overflow: hidden;
+  }
+}
+
+@media only screen and (max-width: 22rem) {
+  .logo__icon {
+    display: none;
+  }
+
+  .period_point__img {
+    max-width: 85vw;
   }
 }

@@ -1,8 +1,10 @@
 import Header, { periodNameToHref } from "./components/Header";
+import useWindowSize from "./hooks/useWindowSize";
 import data from "./data.json";
 
 function App() {
   const periodNames = data.map(({ name }) => name);
+  const { width, height } = useWindowSize();
 
   return (
     <>
@@ -20,37 +22,37 @@ function App() {
           />
 
           {periodInfo.items.map((point, i) => {
-            if (i % 2 == 0)
-              return (
-                <div className="period_point" key={i}>
-                  <div className="period_text">
-                    <p className="period_text__content">{point.text}</p>
-                    <a
-                      className="period_text__link"
-                      href={point.link}
-                      target="_blank"
-                    >
-                      {">"} Ler mais
-                    </a>
-                  </div>
+            const PeriodText = () => (
+              <div className="period_text">
+                <h2 className="period_text__name">{point.name}</h2>
+                <p className="period_text__content">{point.text} [...]</p>
+                <a
+                  className="period_text__link"
+                  href={point.link}
+                  target="_blank"
+                >
+                  {"> Ler mais"}
+                </a>
+              </div>
+            );
 
-                  <img src={point.img} alt="" className="period_point__img" />
-                </div>
-              );
+            const PeriodImg = () => (
+              <img src={point.img} alt="" className="period_point__img" />
+            );
+
             return (
               <div className="period_point" key={i}>
-                <img src={point.img} alt="" className="period_point__img" />
-
-                <div className="period_text">
-                  <p className="period_text__content">{point.text}</p>
-                  <a
-                    className="period_text__link"
-                    href={point.link}
-                    target="_blank"
-                  >
-                    {">"} Ler mais
-                  </a>
-                </div>
+                {i % 2 === 0 || width <= 650 ? (
+                  <>
+                    <PeriodText />
+                    <PeriodImg />
+                  </>
+                ) : (
+                  <>
+                    <PeriodImg />
+                    <PeriodText />
+                  </>
+                )}
               </div>
             );
           })}
