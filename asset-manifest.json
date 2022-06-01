@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/br-timeline/static/css/main.8d78cab7.css",
+    "main.js": "/br-timeline/static/js/main.64e59f1c.js",
+    "index.html": "/br-timeline/index.html",
+    "main.8d78cab7.css.map": "/br-timeline/static/css/main.8d78cab7.css.map",
+    "main.64e59f1c.js.map": "/br-timeline/static/js/main.64e59f1c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8d78cab7.css",
+    "static/js/main.64e59f1c.js"
+  ]
+}
