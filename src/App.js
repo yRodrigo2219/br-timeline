@@ -4,7 +4,7 @@ import data from "./data.json";
 
 function App() {
   const periodNames = data.map(({ name }) => name);
-  const { width, height } = useWindowSize();
+  const { width } = useWindowSize();
 
   return (
     <>
@@ -30,6 +30,7 @@ function App() {
                   className="period_text__link"
                   href={point.link}
                   target="_blank"
+                  rel="noreferrer"
                 >
                   {"> Ler mais"}
                 </a>
@@ -42,7 +43,7 @@ function App() {
 
             return (
               <div className="period_point" key={i}>
-                {i % 2 === 0 || width <= 650 ? (
+                {i % 2 === 0 || width <= 720 ? (
                   <>
                     <PeriodText />
                     <PeriodImg />

@@ -1,49 +1,43 @@
 [
   {
-    "name": "Pré-Descobrimento",
+    "name": "Pré-Cabralina",
     "background": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Brazil_16thc_tupinamba.gif",
     "items": [
       {
         "name": "Introdução",
         "text": "A história pré-cabralina do Brasil é a etapa da história do Brasil anterior à chegada dos portugueses em 1500 protagonizada pelo navegador Pedro Álvares Cabral, à época em que a região que hoje é o território brasileiro era ocupada por milhares dos chamados povos indígenas brasileiros.\n\nA expressão pré-história do Brasil também era usada para se referir este período, mas foi abolida por vários motivos. Principalmente, devido ao fato de o termo 'pré-história', modernamente, ser combatido por alguns acadêmicos, pois partiria de uma visão eurocêntrica de mundo, na qual os povos sem escrita seriam povos sem história.",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Cachoeira_resplendor_pintura_rupestre.jpg",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Brazil_16thc_tupinamba.gif",
         "link": "https://pt.wikipedia.org/wiki/Hist%C3%B3ria_pr%C3%A9-cabralina_do_Brasil"
       },
       {
-        "name": "Metodologia de estudo",
-        "text": "O estudo da história brasileira antes de 1500 é feito, sobretudo, por meio da arqueologia, uma vez que os povos que ocuparam o território onde hoje se encontra o Brasil não possuíam, até onde sabemos, escrita. Estudos linguísticos, etnológicos e históricos têm auxiliado as pesquisas arqueológicas na medida do possível. No entanto, poucos foram os autores que tentaram reconstruir essa história de forma panorâmica (e as tentativas dos arqueólogos de estabelecer uma visão geral da história Pré-Cabralina não se provaram satisfatórias).",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Cal%C3%A7oene%2C_Stonehenge_brasileira%2C_Amap%C3%A1.jpg/449px-Cal%C3%A7oene%2C_Stonehenge_brasileira%2C_Amap%C3%A1.jpg",
-        "link": "https://pt.wikipedia.org/wiki/Hist%C3%B3ria_pr%C3%A9-cabralina_do_Brasil"
+        "name": "Luzia (11 000 a.C.)",
+        "text": "Luzia é o nome do fóssil humano mais antigo encontrado nas Américas. Encontrado pela arqueóloga francesa Annette Laming-Emperaire na década de 1970 no sítio arqueológico de Lapa Vermelha, no município de Lagoa Santa (Minas Gerais), o fóssil dessa mulher pré-histórica contribui para reacender um antigo debate em torno das origens do homem americano.\n\nOs estudos realizados na região habitada por Luzia e outros paleoíndios demonstram que eles desconheciam a cerâmica e que sua indústria lítica era relativamente simples. Pesquisas recentes, contudo, afirmam que esses homens eram sedentários. Achados como enterros numerosos e uso de matérias-primas existentes apenas neste local reforçaram estas ideias.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/IMG_Montagem_wiki_sharpen.png/800px-IMG_Montagem_wiki_sharpen.png",
+        "link": "https://pt.wikipedia.org/wiki/Luzia_(f%C3%B3ssil)"
       },
       {
-        "name": "Sambaquis",
-        "text": "Os sambaquis, montes de conchas e outros resíduos acumulados por ação humana, foram vestígios arqueológicos responsáveis por suscitar considerável debate científico no século XIX. O diretor do Museu Nacional – que junto do Museu Paulista representava o interesse oficial acerca dos fatos histórico-arqueológicos no Brasil –, Landislau Netto, enviou as primeiras expedições científicas para estas regiões. Após anos de pesquisas, essas missões alegaram que 'montes de conchas' teriam formação antropogênica, isto é, origem humana. Hermann Von Ihering, contudo – o diretor do Museu Paulista – primeiramente se opôs a essa visão, dizendo que os restos de conchas teriam sido formados por fenômenos naturais e intertropicais.",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Figueirinha_I_Central.JPG/800px-Figueirinha_I_Central.JPG",
-        "link": "https://pt.wikipedia.org/wiki/Hist%C3%B3ria_pr%C3%A9-cabralina_do_Brasil#Sambaquis"
-      },
-      {
-        "name": "Ocupação do território",
-        "text": "A ocupação do território americano é um tema que tem gerado controvérsias substanciais, sobretudo porque muitos arqueólogos ainda são reticentes em aceitar que o homem possa ter chegado à América por outras vias que não o estreito de Bering. Segundo a teoria tradicional, também conhecido como Teoria de Clóvis, o homem 'pré-histórico' teria migrado da região atual da Mongólia para o Alasca atravessando a Ponte Terrestre de Bering. Não obstante, descobertas efetuadas em sítios arqueológicos brasileiros têm colocado em questão a validade desta teoria.",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Figuras_rupestres%2C_Cost%C3%A3o_do_Santinho%2C_Florian%C3%B3polis_3.JPG/800px-Figuras_rupestres%2C_Cost%C3%A3o_do_Santinho%2C_Florian%C3%B3polis_3.JPG",
-        "link": "https://pt.wikipedia.org/wiki/Hist%C3%B3ria_pr%C3%A9-cabralina_do_Brasil#Ocupa%C3%A7%C3%A3o_do_territ%C3%B3rio"
-      },
-      {
-        "name": "Holoceno no Brasil (12 000 – 4 000 A.P.)",
+        "name": "Holoceno no Brasil (10 000 – 2 000 a.C.)",
         "text": "Os arqueólogos denominam por fase um complexo cultural onde os elementos são intimamente associados. Por tradição, os arqueólogos entendem as práticas e técnicas padrão dos antigos para a confecção, por exemplo, da indústria lítica e da pintura rupestre. Uma subtradição é uma divisão dentro da tradição, normalmente porque houve uma diferenciação do padrão original em dois ou mais padrões novos.\n\nNo final do período pleistocênico a temperatura variou amplamente em fases de expansão e contração das geleiras. Acredita-se que as temperaturas eram mais frias no pleistoceno do que no holoceno, quando sofreram um aumento considerável. No começo do período arcaico médio, o nível do mar se encontrava 10 metros abaixo do atual. Muitas regiões do país, como o Piauí, por exemplo, eram muito mais úmidas do que o são hoje.",
         "img": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Sambaqui%2C_MAE-USP_%282%29.JPG",
         "link": "https://pt.wikipedia.org/wiki/Hist%C3%B3ria_pr%C3%A9-cabralina_do_Brasil#Holoceno_no_Brasil_(12_000_%E2%80%93_4_000_A.P.)"
       },
       {
-        "name": "Período pré-cerâmico (Amazônia) (12 000 - 3 000 A.P.)",
-        "text": "As datações mais antigas da região amazônica atribuem aos primeiros habitantes da região datas como 12 500 a.C. É provável que o território já houvesse sido colonizado anteriormente, mas apenas o avanço da pesquisa na Amazônia poderá confirmar essa hipótese. Os arqueólogos identificam um desenvolvimento da técnica de lascar pedras, começando pelo lascamento por percussão e seguindo para o lascamento por pressão. As mudanças nas técnicas de lascamento são associadas a diferentes modalidades de caça, uma voltada para os animais de grande porte, e outra para os animais de pequeno porte.",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Fazenda_Colorada.jpg",
-        "link": "https://pt.wikipedia.org/wiki/Hist%C3%B3ria_pr%C3%A9-cabralina_do_Brasil#Per%C3%ADodo_pr%C3%A9-cer%C3%A2mico_(Amaz%C3%B4nia)_(12_000_-_3_000_A.P.)"
+        "name": "Arcaico recente (2 000 a.C. até 1500 d.C.)",
+        "text": "O aparecimento de plantas cultivadas em Minas Gerais data de há 4000 anos. Em São Raimundo Nonato, a agricultura parece ter sido praticada desde há pelo menos 2 090 anos. Embora a cerâmica amazônica seja mais antiga que a agricultura, o mesmo fenômeno não ocorre no resto do país, onde a cerâmica mais antiga data de há 3000 anos (na área de São Raimundo Nonato).\n\nArqueólogos brasileiros consideram que o surgimento da cerâmica nas regiões em questão está ligado ao sedentarismo e à agricultura, uma vez que a cerâmica é de difícil transporte e, normalmente, teve a função de armazenar víveres. A tradição Taquara-Itaré é talvez a mais estudada tradição de cerâmica do país.",
+        "img": "https://pm1.narvii.com/7074/3df6d4eec1fe1e9f38e20393b4dbf7b34990f9d2r1-800-468v2_hq.jpg",
+        "link": "https://pt.wikipedia.org/wiki/Hist%C3%B3ria_pr%C3%A9-cabralina_do_Brasil#Arcaico_recente_do_sul_%C3%A0_regi%C3%A3o_nordeste_(4_000_A.P._at%C3%A9_1500_d.C.)"
       },
       {
-        "name": "Período pré-cabralino recente",
-        "text": "Enquanto a maior parte da pesquisa sobre o Brasil mais antigo analisava principalmente os vestígios materiais deixados por esses povos, o Brasil pré-cabralino recente costuma ser estudado através das línguas nativas. Com efeito, o estudo sobre as línguas nativas permite compreender inúmeros aspectos das culturas pré-cabralinas, além de seus parentescos históricos e de suas migrações. Quando os cronistas europeus descreveram os antigos povos brasileiros, utilizaram sobretudo denominações linguísticas e, graças ao trabalho missionário de alguns jesuítas, temos hoje conhecimento das antigas línguas brasílicas (que deram origem às línguas indígenas modernas).",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Famille_d%E2%80%99un_Chef_Camacan_se_pr%C3%A9parant_pour_une_F%C3%AAte.jpg/800px-Famille_d%E2%80%99un_Chef_Camacan_se_pr%C3%A9parant_pour_une_F%C3%AAte.jpg",
-        "link": "https://pt.wikipedia.org/wiki/Hist%C3%B3ria_pr%C3%A9-cabralina_do_Brasil#Per%C3%ADodo_pr%C3%A9-cabralino_recente"
+        "name": "Descobrimento da América (1492)",
+        "text": "O descobrimento da América é como ficou conhecida a chegada dos espanhóis aqui, em 12 de outubro de 1492, em uma ilha que pertence às Bahamas atualmente. A chegada dos europeus nesse contexto aconteceu pela expedição de Cristóvão Colombo, navegante genovês que comandou três embarcações financiadas pela Espanha.\n\nA chegada dos europeus à América está inserida no cenário das grandes navegações e marcou o início oficial da disputa por terras a serem colonizadas. Os espanhóis, no entanto, não foram os primeiros europeus a chegaram ao continente americano, pois os historiadores sabem que os vikings alcançaram a América do Norte no final do século X.",
+        "img": "https://static.mundoeducacao.uol.com.br/mundoeducacao/2020/05/descobrimento-america.jpg",
+        "link": "https://mundoeducacao.uol.com.br/historia-america/descobrimento-da-america.htm#:~:text=O%20descobrimento%20da%20Am%C3%A9rica%20%C3%A9,tr%C3%AAs%20embarca%C3%A7%C3%B5es%20financiadas%20pela%20Espanha."
+      },
+      {
+        "name": "Tratado de Tordesilhas (1494)",
+        "text": "O Tratado de Tordesilhas, assinado na povoação castelhana de Tordesilhas em 7 de junho de 1494, foi um tratado celebrado entre o Reino de Portugal e a Coroa de Castela para dividir as terras \"descobertas e por descobrir\" por ambas as Coroas fora da Europa. Este tratado surgiu na sequência da contestação portuguesa às pretensões da Coroa de Castela, resultantes da viagem de Cristóvão Colombo, que um ano e meio antes chegara ao chamado Novo Mundo, reclamando-o oficialmente para Isabel, a Católica (1474-1504).",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Treaty_of_Tordesillas.jpg/436px-Treaty_of_Tordesillas.jpg",
+        "link": "https://pt.wikipedia.org/wiki/Tratado_de_Tordesilhas"
       }
     ]
   },
@@ -52,9 +46,94 @@
     "background": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Desembarque_de_Pedro_%C3%81lvares_Cabral_em_Porto_Seguro_em_1500_by_Oscar_Pereira_da_Silva_%281865%E2%80%931939%29.jpg/800px-Desembarque_de_Pedro_%C3%81lvares_Cabral_em_Porto_Seguro_em_1500_by_Oscar_Pereira_da_Silva_%281865%E2%80%931939%29.jpg",
     "items": [
       {
-        "text": "",
-        "img": "",
-        "link": "https://pt.wikipedia.org/wiki/Hist%C3%B3ria_do_Brasil"
+        "name": "Introdução",
+        "text": "O Brasil Colônia, ou Brasil colonial, existiu entre o século XVI e o início do XIX, quando o atual território brasileiro abrigava colônias do Reino de Portugal. A nação \"Brasil\" surgiu, como Estado soberano, com a independência. O Brasil colonial é incluído em um conceito mais amplo: a América Portuguesa.\n\nOs termos Brasil Colônia e Brasil colonial são categorias de análise historiográfica e se baseiam no Estado do Brasil, referindo-se às colônias na América Portuguesa que passaram a integrar, em 1815, o Reino Unido de Portugal, Brasil e Algarves.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Desembarque_de_Pedro_%C3%81lvares_Cabral_em_Porto_Seguro_em_1500_by_Oscar_Pereira_da_Silva_%281865%E2%80%931939%29.jpg/800px-Desembarque_de_Pedro_%C3%81lvares_Cabral_em_Porto_Seguro_em_1500_by_Oscar_Pereira_da_Silva_%281865%E2%80%931939%29.jpg",
+        "link": "https://pt.wikipedia.org/wiki/Brasil_Col%C3%B4nia"
+      },
+      {
+        "name": "Descobrimento do Brasil (1500)",
+        "text": "O Brasil foi descoberto em 22 de abril de 1500 pelo capitão-mor duma expedição portuguesa em busca das Índias, Pedro Álvares Cabral, que chegou ao litoral sul da Bahia, na região da atual cidade de Porto Seguro, mais precisamente no distrito de Coroa Vermelha.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Pedro_Alvares_Cabral.jpg/405px-Pedro_Alvares_Cabral.jpg",
+        "link": "https://pt.wikipedia.org/wiki/Brasil_Col%C3%B4nia"
+      },
+      {
+        "name": "Capitanias Hereditárias (1534)",
+        "text": "A colonização foi efetivamente iniciada em 1534, quando D. João III dividiu o território em quatorze capitanias hereditárias, doadas a doze donatários, que podiam explorar os recursos da terra, mas ficavam encarregados de povoar, proteger e estabelecer o cultivo da cana-de-açúcar — os direitos e deveres dos capitães-donatários eram regulamentados pelas cartas de foral, servindo o Foral da Capitania de Pernambuco (ou Nova Lusitânia) de modelo aos forais das demais capitanias.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/8/85/Frans_Post_-_Engenho_de_Pernambuco.jpg",
+        "link": "https://pt.wikipedia.org/wiki/Brasil_Col%C3%B4nia#As_capitanias"
+      },
+      {
+        "name": "Jesuítas no Brasil (1549)",
+        "text": "Os primeiros jesuítas que vieram ao Brasil chegaram com o primeiro governador-geral da colônia, Tomé de Sousa, em 1549. Eles eram liderados por Manuel da Nóbrega e tinham como principal missão a cristianização dos nativos e zelar pela Igreja instalada no Brasil colonial. Os jesuítas construíram locais chamados missões, onde combinavam a catequese dos nativos com a sua utilização como mão de obra para a produção de tudo o que a missão precisasse.",
+        "img": "https://static.mundoeducacao.uol.com.br/mundoeducacao/conteudo_legenda/314ca97476159c8444a1475863a7d136.jpg",
+        "link": "https://brasilescola.uol.com.br/o-que-e/historia/o-que-eram-os-jesuitas.htm"
+      },
+      {
+        "name": "Invasão Francesa (1555)",
+        "text": "Em 1555, os franceses invadiram o Rio de Janeiro e construíram o forte Coligny numa das ilhas da baía da Guanabara: estava assim fundada a França Antártica, que teve cinco anos de vida.",
+        "img": "https://ensina.rtp.pt/site-uploads/2013/10/1-invasao-854x480.jpg",
+        "link": "https://educacao.uol.com.br/disciplinas/historia-brasil/franceses-no-brasil-brasil-colonial-sofreu-duas-grandes-invasoes.htm"
+      },
+      {
+        "name": "União Ibérica (1580)",
+        "text": "A União Ibérica, que ocorreu entre 1580 e 1640, foi a unificação das Coroas espanhola e portuguesa a partir da crise sucessória do trono português. Essa crise de sucessão decretou o fim da Dinastia de Avis e coroou o rei Filipe II, da Espanha, como rei tanto de Portugal quanto da Espanha.\n\nO rei de Portugal, D. Sebastião, desapareceu na batalha de Alcácer-Quibir contra os mouros no Marrocos, em 1578. Como o rei não havia deixado herdeiros para sucedê-lo, quem assumiu foi seu tio-avô, D. Henrique. No entanto, D. Henrique acabou morrendo dois anos depois e, como também não possuía herdeiros diretos, foi iniciada uma crise de sucessão do trono português.",
+        "img": "https://s1.static.brasilescola.uol.com.br/be/conteudo/images/retrato-rei-filipe-ii-espanha-nomeado-rei-portugal-em-1580-595b88a534256.jpg",
+        "link": "https://brasilescola.uol.com.br/o-que-e/historia/o-que-foi-uniao-iberica.htm"
+      },
+      {
+        "name": "Invasão holandesa (1630)",
+        "text": "Após duas tentativas pouco efetivas na década anterior, na Bahia, os holandeses invadem o Brasil, dessa vez em Pernambuco. Para vencer a resistência da população local, os estrangeiros contam com a ajuda do pernambucano Domingos Calabar, que considera a invasão positiva para a região. Permanecem no Nordeste até a Insurreição Pernambucana (1645-1654).",
+        "img": "https://s5.static.brasilescola.uol.com.br/be/2020/01/batalha-dos-guararapes.jpg",
+        "link": "https://brasilescola.uol.com.br/historiab/invasoes-holandesas-no-brasil.htm"
+      },
+      {
+        "name": "A Descoberta do Ouro (1693)",
+        "text": "O Brasil desde o começo do século XVII (1630), sofria com a crise do açúcar. Tal instabilidade fora provocada porque os franceses e holandeses entraram no mercado competitivo da produção açucareira, dificultando assim, a comercialização deste produto por parte dos brasileiros.\n\nO ouro foi encontrado por volta do ano de 1693, quando os paulistas, ou como são conhecidos, bandeirantes, encontraram fartura de minérios nas Minas Gerais. Este fator foi responsável por gerar uma forte demanda migratória para a região. Deste modo, via-se diversos senhores de engenho abandonando suas plantações, para tentar novos meios de subsistência nas minas de ouro recém descobertas.",
+        "img": "https://cdn.abcdoabc.com.br/mapa-minas-gerais-seculo-xviii_c9a2b4ec.jpg",
+        "link": "https://www.abcdoabc.com.br/caderno/descoberta-ouro-suas-consequencias-71055"
+      },
+      {
+        "name": "Tratado de Madri (1750)",
+        "text": "O Tratado de Madri, tinha o objetivo de substituir o Tratado de Tordesilhas (1494), estabelecendo assim, novas fronteiras entre as colônias de Portugal e Espanha na América.\n\nAtravés deste Tratado, Portugal cedia a Colônia do Sacramento (no Uruguai) para a Espanha. Esta, por sua vez, dava o território ocupado pelos Sete Povos das Missões. O acordo foi assinado em 13 de janeiro de 1750 entre os reinos de Portugal e Espanha.\n\nPara conquistar o direito a estas terras, o brasileiro Alexandre de Gusmão (1695-1753), embaixador e secretário de Dom João V, invocou o direito do “uti possidetis, ita possideatis”. Este princípio estabelece que aquele que ocupa um território é seu proprietário.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Brazil_in_1750.svg",
+        "link": "https://www.abcdoabc.com.br/caderno/descoberta-ouro-suas-consequencias-71055"
+      },
+      {
+        "name": "Revolução Francesa (1789)",
+        "text": "No âmbito mundial, a Revolução Francesa marca o início da Idade Contemporânea.",
+        "img": "https://imgs.jusbr.com/publications/images/c50717b417f48d45607fbb586221edc1",
+        "link": "https://fernandomagalhaescosta.jusbrasil.com.br/artigos/1246399051/revolucao-francesa-qual-foi-a-influencia-em-nossa-vida-atual"
+      },
+      {
+        "name": "Inconfidência Mineira (1789)",
+        "text": "A Inconfidência Mineira, ou Conjuração Mineira, é como ficou conhecida a revolta de caráter separatista que estava sendo organizada na capitania das Minas Gerais no final do século XVIII. Essa revolta foi organizada pela elite socioeconômica de Minas Gerais e acabou sendo descoberta pela Coroa portuguesa antes de ser iniciada. Tiradentes foi um dos envolvidos nessa revolta.",
+        "img": "https://s3.static.brasilescola.uol.com.br/img/2019/08/tiradentes.jpg",
+        "link": "https://brasilescola.uol.com.br/historiab/inconfidencia-mineira.htm"
+      },
+      {
+        "name": "Os Doze Profetas (1805)",
+        "text": "Aleijadinho conclui sua obra prima, o conjunto de imagens sacras: Os Passos da Paixão e Os Doze Profetas, da Igreja de Bom Jesus de Matosihos, em Congonhas do Campo (MG).",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/7/72/Sanctuary_of_Bom_Jesus_do_Congonhas.jpg",
+        "link": "https://pt.wikipedia.org/wiki/Doze_profetas_de_Aleijadinho"
+      },
+      {
+        "name": "Vinda da Família Real para o Brasil (1808)",
+        "text": "A vinda da família real portuguesa para o Brasil ocorreu em 29 de novembro de 1807 e a comitiva aportou em Salvador (BA), em 22 de janeiro de 1808.\n\nO refúgio no Brasil foi uma manobra do príncipe regente, D. João, para garantir que Portugal continuasse independente quando foi ameaçado de invasão por Napoleão Bonaparte.",
+        "img": "https://static.todamateria.com.br/upload/em/ba/embarquedafamiliarealportuguesa-cke.jpg",
+        "link": "https://www.todamateria.com.br/a-vinda-da-familia-real-para-o-brasil/"
+      },
+      {
+        "name": "Regresso a Portugal (1821)",
+        "text": "Pressionado pelo Parlamento português, dom João VI regressa a Portugal, deixando Pedro, seu filho mais velho, como regente do Brasil, com o título de dom Pedro I.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/DpedroI-brasil-full.jpg/474px-DpedroI-brasil-full.jpg",
+        "link": "https://pt.wikipedia.org/wiki/Pedro_I_do_Brasil"
+      },
+      {
+        "name": "Independência do Brasil (1822)",
+        "text": "A independência do Brasil aconteceu em 1822, tendo como grande marco o grito da independência que foi realizado por Pedro de Alcântara (D. Pedro I durante o Primeiro Reinado), às margens do Rio Ipiranga, no dia 7 de setembro de 1822. Com a independência do Brasil declarada, o país transformou-se em uma monarquia com a coroação de D. Pedro I.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Pedro_Am%C3%A9rico_-_Independ%C3%AAncia_ou_Morte_-_Google_Art_Project.jpg/800px-Pedro_Am%C3%A9rico_-_Independ%C3%AAncia_ou_Morte_-_Google_Art_Project.jpg",
+        "link": "https://brasilescola.uol.com.br/historiab/independencia-brasil.htm"
       }
     ]
   },
@@ -63,9 +142,118 @@
     "background": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Pedro_Am%C3%A9rico_-_Independ%C3%AAncia_ou_Morte_-_Google_Art_Project.jpg/800px-Pedro_Am%C3%A9rico_-_Independ%C3%AAncia_ou_Morte_-_Google_Art_Project.jpg",
     "items": [
       {
-        "text": "",
-        "img": "",
-        "link": "https://pt.wikipedia.org/wiki/Hist%C3%B3ria_do_Brasil"
+        "name": "Introdução",
+        "text": "O Império do Brasil (denominado pela historiografia também como Brasil Império, Brasil Imperial ou Brasil Monárquico) foi um Estado que existiu no século XIX e que compreendia, aproximadamente, até 1825, o território que forma o Brasil e o Uruguai atuais. Seu governo era uma monarquia constitucional parlamentar representativa, com a ascensão ao trono de dois imperadores, D. Pedro I e seu filho, D. Pedro II.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Pedro_Am%C3%A9rico_-_Independ%C3%AAncia_ou_Morte_-_Google_Art_Project.jpg/800px-Pedro_Am%C3%A9rico_-_Independ%C3%AAncia_ou_Morte_-_Google_Art_Project.jpg",
+        "link": "https://pt.wikipedia.org/wiki/Imp%C3%A9rio_do_Brasil"
+      },
+      {
+        "name": "Primeiro Reinado (1822)",
+        "text": "Após proclamara indepêndencia do Brasil, dom Pedro I é coroado imperador, dando inicio ao Primeiro Reinado.",
+        "img": "https://aventurasnahistoria.uol.com.br/media/_versions/pedrocoroado9s0d_widelg.jpg",
+        "link": "https://brasilescola.uol.com.br/historiab/independencia-brasil.htm"
+      },
+      {
+        "name": "Primeira Constituição (1824)",
+        "text": "A Constituição Política do Império do Brasil, comumente referida como Constituição de 1824, foi a primeira constituição do Brasil, outorgada em 25 de março de 1824 e revogada em 24 de fevereiro de 1891.\n\nVigente durante o período do Brasil Império, ela foi uma constituição do tipo outorgada, isso é, imposta unilateralmente pela vontade do imperador Pedro I, que a encomendara ao Conselho de Estado. D. Pedro havia dissolvido a Assembleia Constituinte em 1823 e, por meio da Constituição de 1824, impôs o seu próprio projeto político ao País.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/00_Constitui%C3%A7%C3%A3o_do_Imp%C3%A9rio_do_Brasil.jpg/395px-00_Constitui%C3%A7%C3%A3o_do_Imp%C3%A9rio_do_Brasil.jpg",
+        "link": "https://pt.wikipedia.org/wiki/Constitui%C3%A7%C3%A3o_brasileira_de_1824"
+      },
+      {
+        "name": "Guerra da Cisplatina (1825)",
+        "text": "A Guerra da Cisplatina foi um conflito travado pelo Império do Brasil contra as Províncias Unidas do Rio da Prata (atual Argentina) pelo controle da Cisplatina, região que atualmente conhecemos como Uruguai. Essa foi a primeira guerra de que o Brasil participou como nação independente e estendeu-se de 1825 a 1828. O resultado do confronto foi desastroso para o Brasil, que, além de perder a Cisplatina, teve de amargar uma intensa crise econômica.",
+        "img": "https://s1.static.brasilescola.uol.com.br/be/conteudo/images/pintura-juan-manuel-blanes-retratando-os-33-5bd99a3490860.jpg",
+        "link": "https://brasilescola.uol.com.br/guerras/guerra-cisplatina.htm"
+      },
+      {
+        "name": "Lei Feijó (1831)",
+        "text": "Esse acordo fez com que os dois governos mantivessem contatos frequentes por essa questão. O Brasil tornou oficial o seu compromisso quando foi aprovada, em 7 de novembro de 1831, a Lei Feijó, que decretava a proibição do tráfico negreiro definitivamente, mas nunca foi efetivamente implantada e ficou conhecida como \"lei para inglês ver\".",
+        "img": "https://www.dmtemdebate.com.br/wp-content/uploads/2021/03/Chronicle-Alamy-Stock-Photo.jpeg",
+        "link": "https://brasilescola.uol.com.br/historiab/lei-eusebio-de-queiros.htm"
+      },
+      {
+        "name": "Abdicação de Dom Pedro I (1831)",
+        "text": "Isolado no poder, em abril dom Pedro I abdica do trono em nome de seu filho, Pedro, então uma criança.\n\nApós a abdicação, um grupo de líderes políticos assume interinamente o governo do país. É o período das Regências.",
+        "img": "https://s1.static.brasilescola.uol.com.br/be/conteudo/images/acima-bilhete-em-que-d-pedro-i-escreveu-sua-abdicacao-55ef543ea6417.jpg",
+        "link": "https://brasilescola.uol.com.br/historiab/abdicacao-dom-pedro-i.htm"
+      },
+      {
+        "name": "Revolta dos Farrapos (1835)",
+        "text": "A Guerra dos Farrapos, também conhecida como Revolta dos Farrapos ou Revolução Farroupilha, foi uma das revoltas provinciais que aconteceram no território brasileiro durante o Período Regencial. Ela ganhou notoriedade pelo maior tempo de duração (10 anos), e, além disso, foi uma das que apresentaram maior ameaça à integridade territorial brasileira.\n\nOrganizada como um movimento da elite gaúcha, a Guerra dos Farrapos encerrou-se após a negociação de paz dos estancieiros gaúchos com o governo. Os termos da rendição ficaram conhecidos como Tratado do Poncho Verde.",
+        "img": "https://s4.static.brasilescola.uol.com.br/be/2020/03/republica-piratini.jpg",
+        "link": "https://brasilescola.uol.com.br/historiab/revolucao-farroupilha.htm"
+      },
+      {
+        "name": "Cabanagem (1835)",
+        "text": "A Cabanagem foi uma revolta que aconteceu na província do Grão-Pará, entre os anos de 1835 e 1840, durante o Período Regencial. Esse período foi marcado por revoltas provinciais, e no Grão-Pará aconteceu a Cabanagem, uma das mais violentas desse período.\n\nAs causas da revolta foram a grave situação econômica e social da região e a disputa pelo poder na província. Os principais líderes eram indígenas, negros e pobres, mortos pelas tropas regenciais.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Cabanagem_Bel%C3%A9m_1835.jpg/300px-Cabanagem_Bel%C3%A9m_1835.jpg",
+        "link": "https://brasilescola.uol.com.br/historiab/cabanagem.htm"
+      },
+      {
+        "name": "Sabinada (1837)",
+        "text": "A Sabinada foi um levante armado ocorrido na província da Bahia, entre novembro de 1837 e março de 1838, tendo como palco principal a cidade de Salvador.\n\nO nome do movimento se deve a seu líder, Francisco Sabino Álvares da Rocha Vieira, republicano, médico, jornalista e revolucionário federalista.",
+        "img": "https://static.todamateria.com.br/upload/fr/an/francisco_sabino_bb.jpg",
+        "link": "https://www.todamateria.com.br/sabinada/"
+      },
+      {
+        "name": "Segundo Reinado (1840)",
+        "text": "Aos 14 anos, dom Pedro II é declarado maior de idade e começa a reinar. Tem início o Segundo Reinado.",
+        "img": "http://rnews.com.br/wp-content/uploads/2015/07/memoria1.jpg",
+        "link": "https://brasilescola.uol.com.br/historiab/segundo-reinado.htm"
+      },
+      {
+        "name": "Bill Aberdeen (1845)",
+        "text": "Em 1845, o parlamento britânico apova a Bill Aberdeen, lei que dá à Marinha inglesa o direito de prender navios negreiros no Atlântico. A partir daí, o tráfico de escravos para o Brasil cai significativamente.",
+        "img": "https://s2.static.brasilescola.uol.com.br/be/conteudo/images/navio-negreiro.jpg",
+        "link": "https://brasilescola.uol.com.br/historiab/bill-aberdeen.htm"
+      },
+      {
+        "name": "Parlamentarismo às avessas (1847)",
+        "text": "No Brasil, a organização do sistema parlamentar acabou sendo completamente \"avesso\" ao modelo inglês. O imperador Dom Pedro II, imbuído das atribuições concedidas pelos Poder Moderador, tinha total liberdade para escolher os integrantes do Conselho de Estado. Este órgão, situado abaixo da autoridade do monarca, poderia escolher os ministros e realizar a dissolução da Câmara de Deputados. Na maioria das vezes, as ações do Conselho somente refletiam os interesses do imperador.",
+        "img": "https://s1.static.brasilescola.uol.com.br/be/e/Parlamentarismo%20-%20BRESCOLA.jpg",
+        "link": "https://brasilescola.uol.com.br/historiab/parlamentarismo-as-avessas.htm"
+      },
+      {
+        "name": "Lei Eusébio de Queirós (1850)",
+        "text": "A Lei Eusébio de Queirós foi aprovada em 4 de setembro de 1850, sendo proposta por Eusébio de Queirós, ministro da Justiça. Ela determinava a proibição do tráfico de africanos escravizados para o Brasil e foi uma resposta às pressões realizadas pela Inglaterra para que o Brasil acabasse com essa prática.",
+        "img": "https://s5.static.brasilescola.uol.com.br/be/2020/08/comercio-escravos.jpg",
+        "link": "https://brasilescola.uol.com.br/historiab/lei-eusebio-de-queiros.htm"
+      },
+      {
+        "name": "Guerra do Paraguai (1864)",
+        "text": "A Guerra do Paraguai foi o maior conflito armado internacional ocorrido na América Latina. Foi travada entre o Paraguai e a Tríplice Aliança, composta pelo Império do Brasil, Argentina e Uruguai. Ela se estendeu de dezembro de 1864 a março de 1870. É também chamada Guerra da Tríplice Aliança, na Argentina e no Uruguai, e de Guerra Grande, Guerra Contra a Tríplice Aliança e Guerra-Guaçu no Paraguai.",
+        "img": "https://s1.static.brasilescola.uol.com.br/be/conteudo/images/ilustracao-1868-retrata-os-cenarios-batalha-durante-guerra-paraguai-5a58f20069e44.jpg",
+        "link": "https://pt.wikipedia.org/wiki/Guerra_do_Paraguai"
+      },
+      {
+        "name": "Manifesto Republicano (1870)",
+        "text": "As propostas do republicanismo só tomaram forma e se organizaram mais sistematicamente quando o jornal A República, na edição de 3 de dezembro de 1870, publicou o Manifesto Republicano.\n\nO documento propunha basicamente que o país se transformasse em uma República federativa para se adequar à realidade dos demais países do continente e garantir uma relativa autonomia das províncias em relação ao governo central.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/3/30/A-republica-3-12-1870.jpg",
+        "link": "http://www.tancredoprofessor.com.br/conteudo/74/o-manifesto-republicano"
+      },
+      {
+        "name": "Questão religiosa (1872)",
+        "text": "A questão religiosa foi um conflito ocorrido no Brasil na década de 1870 que, tendo iniciado como um enfrentamento entre a Igreja Católica e a Maçonaria, acabou se tornando uma grave questão de Estado. Suas causas podem ser traçadas desde muito tempo antes, fundadas em divergências irreconciliáveis entre ultramontanismo, o liberalismo e o regime do padroado, e em aspectos complexos da cultura brasileira.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Quest%C3%A3o_religiosa_no_segundo_reinado.png",
+        "link": "https://pt.wikipedia.org/wiki/Quest%C3%A3o_religiosa"
+      },
+      {
+        "name": "Questão militar (1883)",
+        "text": "Desde o fim da Guerra do Paraguai, em 1870, os militares passaram a ter uma maior visibilidade no cenário político nacional. De uma simples e mal organizada instituição, o Exército passou a atrair os olhos de vários jovens provenientes de classes sociais menos abastadas. Apesar da vitória em terras estrangeiras, os salários e a própria carreira dos militares não eram alvo da atenção das autoridades monárquicas.",
+        "img": "https://static.mundoeducacao.uol.com.br/mundoeducacao/conteudo_legenda/c8161131621dc0d28f60ca6c4280e2f3.jpg",
+        "link": "https://mundoeducacao.uol.com.br/historiadobrasil/questao-militar.htm"
+      },
+      {
+        "name": "Lei Áurea (1888)",
+        "text": "A lei concedeu liberdade total aos escravos que ainda existiam no Brasil, um pouco mais de 700 mil, abolindo a escravidão no país.\n\nPara a família imperial, consistiu na perda de apoio político e para os escravos, a liberdade, ainda que sem integração social.",
+        "img": "https://static.todamateria.com.br/upload/13/de/13demaio-cke.jpg",
+        "link": "https://www.todamateria.com.br/lei-aurea/"
+      },
+      {
+        "name": "Proclamação da República do Brasil (1889)",
+        "text": "A Proclamação da República Brasileira, também referida na História do Brasil como Golpe Republicano ou Golpe de 1889, foi um golpe de Estado político-militar, ocorrido em 15 de novembro de 1889, que instaurou a forma republicana presidencialista de governo no Brasil, encerrando a monarquia constitucional parlamentarista do Império e, por conseguinte, destituindo o então chefe de Estado, imperador D. Pedro II, que em seguida recebeu ordens de partir para o exílio na Europa.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Proclama%C3%A7%C3%A3o_da_Rep%C3%BAblica_by_Benedito_Calixto_1893.jpg/800px-Proclama%C3%A7%C3%A3o_da_Rep%C3%BAblica_by_Benedito_Calixto_1893.jpg",
+        "link": "https://pt.wikipedia.org/wiki/Proclama%C3%A7%C3%A3o_da_Rep%C3%BAblica_do_Brasil"
       }
     ]
   },
@@ -74,9 +262,142 @@
     "background": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Proclama%C3%A7%C3%A3o_da_Rep%C3%BAblica_by_Benedito_Calixto_1893.jpg/800px-Proclama%C3%A7%C3%A3o_da_Rep%C3%BAblica_by_Benedito_Calixto_1893.jpg",
     "items": [
       {
-        "text": "",
-        "img": "",
-        "link": "https://pt.wikipedia.org/wiki/Hist%C3%B3ria_do_Brasil"
+        "name": "Introdução",
+        "text": "Brasil República refere-se ao período da história do Brasil em que o regime republicano foi instaurado, ou seja, desde a proclamação da república, que ocorreu com um golpe feito por marechal Deodoro da Fonseca em 15 de novembro de 1889. Este golpe depôs Dom Pedro II, deixando o país de ser um Império e passando a ser uma república presidencialista, convencionando, em termos historiográficos, um novo período da história brasileira, que perdura até hoje.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Proclama%C3%A7%C3%A3o_da_Rep%C3%BAblica_by_Benedito_Calixto_1893.jpg/800px-Proclama%C3%A7%C3%A3o_da_Rep%C3%BAblica_by_Benedito_Calixto_1893.jpg",
+        "link": "https://pt.wikipedia.org/wiki/Brasil_Rep%C3%BAblica"
+      },
+      {
+        "name": "Segunda Constituição (1891)",
+        "text": "A Constituição de 1891 foi a segunda da história brasileira e a primeira do período republicano. Foi promulgada em fevereiro de 1891, como uma consequência direta da alteração da forma de governo. Ela implementou mudanças significativas para o Brasil, ratificando o sistema republicano presidencialista, implantando o federalismo e determinando a separação entre Estado e Igreja.",
+        "img": "https://s5.static.brasilescola.uol.com.br/be/2020/02/constituicao-1891.jpg",
+        "link": "https://brasilescola.uol.com.br/historiab/constituicao-1891.htm"
+      },
+      {
+        "name": "Eleição (1891)",
+        "text": "Deodoro da Fonseca é oficialmente eleito, pelo Congresso, o primeiro presidente do Brasil.\n\nPorém, ainda no mesmo ano, cedeu o cargo para Floriano Peixoto diante de ameaças.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Deodoro_da_Fonseca_%281889%29.jpg/402px-Deodoro_da_Fonseca_%281889%29.jpg",
+        "link": "https://pt.wikipedia.org/wiki/Deodoro_da_Fonseca#Elei%C3%A7%C3%A3o_de_1891"
+      },
+      {
+        "name": "Revolução Federalista e Revolta Armada (1893)",
+        "text": "O descontentamento com os rumos da república brasileira provocou não apenas rompimentos políticos ou críticas na imprensa aos dois governos militares. Outros republicanos decidiram pegar em armas para tentar mudar os rumos do governo do Brasil. Tivemos a Revolta da Armada, que aconteceu em dois momentos e demonstrou a luta da Marinha por maiores salários e mais participação no governo, e a Revolução Federalista, que aconteceu no Sul do país, e mostrou as disputas regionais sobre a centralização do poder e autonomia dos estados.",
+        "img": "https://static.mundoeducacao.uol.com.br/mundoeducacao/2021/04/revolta-da-armada-1893.jpg",
+        "link": "https://mundoeducacao.uol.com.br/historiadobrasil/a-revolta-armada.htm"
+      },
+      {
+        "name": "Eleição Direta (1894)",
+        "text": "A eleição presidencial do Brasil de 1894 foi a segunda eleição presidencial e a primeira eleição direta do país. Foi realizada em 1º de março. Nessa eleição, os estados da Região Sul (Paraná, Santa Catarina e Rio Grande do Sul) não participaram devido à Revolução Federalista (1893-1895). Essa eleição marca o fim da República da Espada (1889-1894) dos governos militares de Deodoro da Fonseca e Floriano Peixoto, marcando assim, o início da República Oligárquica (1894-1930) dos governos civis que na maioria das vezes representaram os interesses dos grandes cafeicultores.\n\nPrudente de Morais foi o presidente eleito.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Prudentedemorais_%28cropped%29.jpg/450px-Prudentedemorais_%28cropped%29.jpg",
+        "link": "https://pt.wikipedia.org/wiki/Elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_1894"
+      },
+      {
+        "name": "Guerra de Canudos (1896)",
+        "text": "Guerra de Canudos ou Campanha de Canudos foi um conflito armado que envolveu o Exército Brasileiro e membros da comunidade sócio-religiosa liderada por Antônio Conselheiro, em Canudos, no interior do estado da Bahia. Os confrontos ocorreram entre 1896 e 1897, com a destruição da comunidade e a morte da maior parte dos 25 000 habitantes de Canudos.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Pris%C3%A3o_de_jagun%C3%A7os_pela_cavalaria.jpg/800px-Pris%C3%A3o_de_jagun%C3%A7os_pela_cavalaria.jpg",
+        "link": "https://pt.wikipedia.org/wiki/Guerra_de_Canudos"
+      },
+      {
+        "name": "Revolta da Vacina (1904)",
+        "text": "A Revolta da Vacina foi uma rebelião popular contra a vacina anti-varíola, ocorrida no Rio de Janeiro, em novembro de 1904.\n\nAgitadores incitavam a massa urbana a enfrentar os funcionários da Saúde Pública que, protegidos pelos policiais, invadiam as casas e vacinavam as pessoas à força. Os mais radicais pregavam a resistência à bala, alegando que o cidadão tinha o direito de preservar o próprio corpo e não aceitar aquele líquido desconhecido.",
+        "img": "https://static.todamateria.com.br/upload/re/vo/revolta_da_vacina_charge_cruz_bb.jpg",
+        "link": "https://www.todamateria.com.br/revolta-da-vacina/"
+      },
+      {
+        "name": "Revolta da Chibata (1910)",
+        "text": "A Revolta da Chibata foi um motim organizado pelos soldados da Marinha brasileira de 22 a 27 de novembro de 1910. A revolta organizada pelos marinheiros ocorreu em embarcações da Marinha que estavam atracadas na Baía de Guanabara e foi motivada, principalmente, pela insatisfação dos marinheiros com os castigos físicos.",
+        "img": "https://s3.static.brasilescola.uol.com.br/be/2020/11/joao-candido-felisperto.jpg",
+        "link": "https://brasilescola.uol.com.br/historiab/revolta-chibata.htm"
+      },
+      {
+        "name": "Revolta dos 18 do Forte (1922)",
+        "text": "A Revolta dos 18 do Forte, também conhecida como Revolta do Forte de Copacabana, foi iniciada em 5 de julho de 1922 e encerrada no dia seguinte, na cidade do Rio de Janeiro, então capital do Brasil. Foi a primeira revolta do movimento tenentista, no contexto da República Velha.\n\nSegundo a tradição, foi concluída com uma marcha feita por dezessete militares e um civil que reivindicavam o fim das oligarquias do poder, combatendo três mil homens das forças governamentais. Porém, o maior destes levantes foi a Coluna Prestes, que tem início em 1924.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Os_18_do_Forte.jpg/800px-Os_18_do_Forte.jpg",
+        "link": "https://pt.wikipedia.org/wiki/Revolta_dos_18_do_Forte_de_Copacabana"
+      },
+      {
+        "name": "Revolução de 1930 (1930)",
+        "text": "A Revolução de 1930 foi uma revolta armada organizada pelas oligarquias de Minas Gerais, Rio Grande do Sul e Paraíba contra o governo vigente. Essa revolta armada ocorreu por insatisfações das três oligarquias citadas com o domínio excessivo dos paulistas sobre a política. Os levantes armados que aconteceram causaram o fim da Primeira República e o início da Era Vargas.",
+        "img": "https://static.mundoeducacao.uol.com.br/mundoeducacao/conteudo_legenda/ba25c6fb59f78186fa2bce236644a1b2.jpg",
+        "link": "https://mundoeducacao.uol.com.br/historiadobrasil/revolucao-1930.htm"
+      },
+      {
+        "name": "Revolução Constitucionalista (1932)",
+        "text": "A Revolução Constitucionalista foi um movimento armado iniciado em 9 de julho de 1932, liderado pelo estado de São Paulo, que defendia uma nova Constituição para o Brasil e atacava o autoritarismo do Governo Provisório de Getúlio Vargas. Durante quase quatro meses, os paulistas entraram em confronto com tropas fiéis a Vargas e, isolados, foram derrotados. O levante não foi em vão, pois, em 1934, era promulgada a nova Constituição brasileira.",
+        "img": "https://s5.static.brasilescola.uol.com.br/be/2020/06/cartaz.jpg",
+        "link": "https://brasilescola.uol.com.br/historiab/revolucaoconstitucionalista.htm"
+      },
+      {
+        "name": "Estado Novo (1937)",
+        "text": "Dado como um governo estabelecido por vias golpistas, o Estado Novo foi implantado por Getúlio Vargas sob a justificativa de conter uma nova ameaça de golpe comunista no Brasil. Para dar ao novo regime uma aparência legal, Francisco Campos, aliado político de Getúlio, redigiu uma nova constituição inspirada por itens das constituições fascistas italiana e polonesa.",
+        "img": "https://s1.static.brasilescola.uol.com.br/be/e/Vargas%20-%20Estado%20Novo.jpg",
+        "link": "https://brasilescola.uol.com.br/historiab/vargas.htm"
+      },
+      {
+        "name": "Brasil na Segunda Guerra Mundial (1944)",
+        "text": "O Brasil entrou na Segunda Guerra Mundial em 30 de junho de 1944, ao lado dos países aliados, isto é, Estados Unidos, Inglaterra, União Soviética e as resistências civis-militares de países como a França. O inimigo, evidentemente, eram as chamadas \"Potências do Eixo Roma-Berlim-Tóquio\". ",
+        "img": "https://static.historiadomundo.com.br/conteudo/images/soldados-forca-expedicionaria-brasileira-583457bc8d444.jpg",
+        "link": "https://www.historiadomundo.com.br/idade-contemporanea/brasil-na-segunda-guerra-mundial.htm"
+      },
+      {
+        "name": "República Populista (1946)",
+        "text": "A Quarta República, também conhecida como República Populista, foi um período da história brasileira iniciado em 1946, com a posse de Eurico Gaspar Dutra, e finalizado em 1964, com o Golpe Civil-Militar que marcou o início da Ditadura Militar no Brasil. A República Populista foi marcada por intensas tensões políticas e pela política desenvolvimentista do Brasil.",
+        "img": "https://s1.static.brasilescola.uol.com.br/be/conteudo/images/vargas-e-jk.jpg",
+        "link": "https://brasilescola.uol.com.br/historiab/republica-populista-1945-1964.htm"
+      },
+      {
+        "name": "Governo Kubitschek (1956)",
+        "text": "Juscelino foi o último presidente da República a assumir o cargo no Palácio do Catete. Foi empossado em 31 de janeiro de 1956, e governou por cinco anos, até 31 de janeiro de 1961. Seu vice-presidente, eleito também em 3 de outubro de 1955, foi João Goulart. Não havia reeleição naquela época. Foi o primeiro presidente civil desde Artur Bernardes a cumprir integralmente seu mandato. Juscelino Kubitschek empolgou o país com seu slogan \"Cinquenta anos em cinco\", conseguiu encetar um processo de rápida industrialização, tendo como carro-chefe a indústria automobilística.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Juscelino.jpg/401px-Juscelino.jpg",
+        "link": "https://pt.wikipedia.org/wiki/Juscelino_Kubitschek#Presidente_do_Brasil"
+      },
+      {
+        "name": "Ditadura Militar (1964)",
+        "text": "A Ditadura Militar no Brasil foi um regime autoritário que teve início com o golpe militar em 31 de março de 1964, com a deposição do presidente João Goulart.\n\nO golpe militar de 31 de março de 1964 tinha como objetivo evitar o avanço das organizações populares do Governo de João Goulart, acusado de comunista. O ponto de partida foi a renúncia do presidente Jânio Quadros, em 25 de agosto de 1961. O Congresso Nacional empossou temporariamente o presidente da Câmara, o deputado Ranieri Mazzili, pois o vice-presidente encontrava-se em viagem à China.",
+        "img": "https://static.todamateria.com.br/upload/di/ta/ditaduraoglobo-0-cke.jpg",
+        "link": "https://www.todamateria.com.br/ditadura-militar-no-brasil/"
+      },
+      {
+        "name": "Sexta Constituição (1967)",
+        "text": "A Constituição Brasileira de 1967 foi promulgada em 24 de janeiro de 1967 e entrou em vigor no dia 15 de março de 1967.\n\nFoi elaborada pelo Congresso Nacional, a que o Ato Institucional n. 4 atribuiu função de poder constituinte originário (\"ilimitado e soberano\"). O Congresso Nacional, transformado em Assembleia Nacional Constituinte e já com os membros da oposição afastados, elaborou, sob pressão dos militares, uma Carta Constitucional promulgada que buscou legalizar e institucionalizar a ditadura militar consequente do Golpe de 1964.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Constitui%C3%A7%C3%A3o_do_Brasil_de_1967_p._00_%28capa%29.jpg/427px-Constitui%C3%A7%C3%A3o_do_Brasil_de_1967_p._00_%28capa%29.jpg",
+        "link": "https://pt.wikipedia.org/wiki/Constitui%C3%A7%C3%A3o_brasileira_de_1967"
+      },
+      {
+        "name": "AI-5 (1968)",
+        "text": "O Ato Institucional nº 5, conhecido usualmente como AI-5, foi um decreto emitido pela Ditadura Militar durante o governo de Artur da Costa e Silva no dia 13 de dezembro de 1968. O AI-5 é entendido como o marco que inaugurou o período mais sombrio da ditadura e que concluiu uma transição que instaurou de fato um período ditatorial no Brasil.",
+        "img": "https://s1.static.brasilescola.uol.com.br/be/conteudo/images/o-ato-institucional-n-5-foi-decretado-em-1968-durante-governo-artur-costa-silva-5c1b64ad71305.jpg",
+        "link": "https://brasilescola.uol.com.br/o-que-e/historia/o-que-foi-ai-5.htm"
+      },
+      {
+        "name": "Milagre Econômico (1973)",
+        "text": "Milagre Econômico ou \"milagre econômico brasileiro\" corresponde ao crescimento econômico ocorrido no Brasil entre os anos de 1968 a 1973.\n\nEsse período foi caracterizado pela aceleração do crescimento do PIB (Produto Interno Bruto), industrialização e inflação baixa.",
+        "img": "https://static.todamateria.com.br/upload/mi/la/milagreeconomicocartaz-0-cke.jpg",
+        "link": "https://www.todamateria.com.br/milagre-economico/"
+      },
+      {
+        "name": "Novo Sindicalismo (1978)",
+        "text": "No dia 12 de maio de 1978, os trabalhadores da fábrica de caminhões da Scania, em São Bernardo do Campo (SP), cruzaram os braços exigindo um aumento salarial de 20%, acima do reajuste estipulado pelo governo. A greve da Scania – que rapidamente se alastrou por um grande número de fábricas na região do ABC paulista – foi o sinal de que um poderoso ator social estava entrando em cena no país: a classe trabalhadora.",
+        "img": "http://memorialdademocracia.com.br/publico/thumb/6620/740/440",
+        "link": "http://memorialdademocracia.com.br/card/novo-sindicalismo"
+      },
+      {
+        "name": "Diretas Já (1984)",
+        "text": "Diretas Já foi um movimento político de cunho popular que teve como objetivo a retomada das eleições diretas ao cargo de presidente da República no Brasil, durante a ditadura militar brasileira. A possibilidade de eleições diretas para a Presidência da República no Brasil durante o regime ditatorial, se concretizou com a votação da proposta de Emenda Constitucional Dante de Oliveira pelo Congresso. Entretanto, a Proposta de Emenda Constitucional foi rejeitada, frustrando a sociedade brasileira.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Diretas_J%C3%A1_%284987732126%29.jpg/392px-Diretas_J%C3%A1_%284987732126%29.jpg",
+        "link": "https://pt.wikipedia.org/wiki/Diretas_J%C3%A1"
+      },
+      {
+        "name": "Fim da Ditadura Militar (1985)",
+        "text": "A Ditadura Militar no Brasil, que durou 21 anos, terminou no dia 15 de março de 1985. Tancredo Neves (PMDB-MG) foi eleito o presidente pelo Colégio Eleitoral, ainda em eleição indireta ao derrotar o candidato Paulo Maluf. A chapa de Neves com o vice José Sarney foi formada após a derrota no Congresso, em abril de 1984, da emenda Dante de Oliveira, que previa eleições diretas para a presidência.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Tancredo_Neves_e_A%C3%A9cio_Neves.jpg/1280px-Tancredo_Neves_e_A%C3%A9cio_Neves.jpg",
+        "link": "https://www.bandab.com.br/esporte/times/coritiba/o-que-aconteceu-no-brasil-e-no-mundo-em-1985-ano-do-titulo-do-coritiba-no-brasileirao/"
+      },
+      {
+        "name": "Nova Republica (1985 - Atual)",
+        "text": "É denominado \"Nova República\" na história do Brasil, o período imediatamente posterior ao Regime Militar, época de exceção das liberdades fundamentais e de perseguição a opositores do poder. É exatamente pela repressão do período anterior que afloram, de todos os setores da sociedade brasileira o desejo de iniciar uma nova fase do governo republicano no país, com eleições diretas, além de uma nova constituição que contemplasse as aspirações de todos os cidadãos. Pode-se denominar tal período também como a Sexta República Brasileira.",
+        "img": "https://www.infoescola.com/wp-content/uploads/2011/07/brasao-republica-450x444.jpeg",
+        "link": "https://www.infoescola.com/historia/nova-republica/"
       }
     ]
   }
